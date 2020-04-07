@@ -19,6 +19,7 @@ there are no currently known bugs
 2. css
 3. bootstrap
 4. angular
+5. typescript
 
 ## Support and contact details
 crystalalice21@gmail.com
