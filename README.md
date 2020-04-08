@@ -1,7 +1,6 @@
 [https://ivxxi.github.io/angular-week-1/]
 
 # {quotes hub}
-[https://ivxxi.github.io/ip-4/]
 #### quotes website, Date of current version
 #### By **{crystal alice}**
 ## Description
